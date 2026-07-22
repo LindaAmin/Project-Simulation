@@ -324,9 +324,10 @@ st.header("📊 Projection Calculation Engine")
 st.subheader("💹 A. Dividend Rate Information")
 st.markdown(
     """
-    <div class="information-note"><b>Note:</b> Standard dividend rates for Cash, EPF, ASB and Fixed Deposit will be 
-    populated automatically after you select the dividend year. For “Others,” please enter the dividend rate manually. 
-    You may also use this form to override any standard rate.</div>
+    <div class="information-note"><b>Note:</b> Standard dividend rates for
+    Cash, EPF, ASB and Fixed Deposit will be populated automatically after you
+    enter the dividend year. For Others, please enter the dividend rate
+    manually. You may also use this form to override any standard rate.</div>
     """,
     unsafe_allow_html=True,
 )
@@ -462,6 +463,12 @@ if missing_rates:
 
 agency_projection_summary = final_agency_summary(projection_df, withdrawal_date)
 
+# The Overall Total is the single source for all portfolio-level values.
+# These totals are also used by the Profit / Loss Analysis below.
+total_principal = float(agency_projection_summary["Total Principal"].sum())
+total_estimated_dividend = float(agency_projection_summary["Estimated Dividend"].sum())
+total_estimated_earned_value = float(agency_projection_summary["Final Value"].sum())
+
 if projection_df.empty:
     st.info("Add at least one investment to generate the yearly projection.")
 else:
@@ -486,19 +493,11 @@ else:
         s2.metric(f"{agency} – Dividend", format_rm(subtotal["Estimated Dividend"]))
         s3.metric(f"{agency} – Subtotal", format_rm(subtotal["Final Value"]))
 
-    total_principal = float(agency_projection_summary["Total Principal"].sum())
-    total_estimated_dividend = float(agency_projection_summary["Estimated Dividend"].sum())
-    total_estimated_earned_value = float(agency_projection_summary["Final Value"].sum())
     st.markdown("#### Overall Total")
     t1, t2, t3 = st.columns(3)
     t1.metric("Total Principal", format_rm(total_principal))
     t2.metric("Total Estimated Dividend", format_rm(total_estimated_dividend))
     t3.metric("Total Estimated Earned Value", format_rm(total_estimated_earned_value))
-
-if projection_df.empty:
-    total_principal = 0.0
-    total_estimated_dividend = 0.0
-    total_estimated_earned_value = 0.0
 
 
 # ==========================================================
@@ -508,14 +507,11 @@ st.header("💵 Withdrawal Information")
 st.subheader("A. Withdrawal with Dividend Rate")
 st.markdown(
     """
-    <div class="information-note">
-        <b>Note:</b> Please enter the estimated dividend rate
-        received from each investment institution. The estimated
-        dividend will be calculated directly based on the total
-        investment amount.
-    </div>
+    <div class="information-note"><b>Note:</b> Enter the estimated dividend
+    rate received from each investment institution. The estimated dividend is
+    calculated directly based on the total investment amount.</div>
     """,
-    unsafe_allow_html=True
+    unsafe_allow_html=True,
 )
 
 withdrawal_rows = []
@@ -531,7 +527,6 @@ else:
         column.markdown(f"**{label}**")
     compact_line()
 
-    #withdrawal_months = max(0, withdrawal_end_month(withdrawal_date))
     for row_no, agency_record in enumerate(agency_projection_summary.to_dict("records"), start=1):
         agency = agency_record["Investment Agency"]
         principal = float(agency_record["Total Principal"])
@@ -549,7 +544,7 @@ else:
             key=f"estimated_withdrawal_rate_{agency}",
             label_visibility="collapsed",
         )
-        estimated_dividend = principal * estimated_rate / 100 
+        estimated_dividend = principal * estimated_rate / 100
         total_withdrawal = principal + estimated_dividend
         history_cell(row[5], format_rm(total_withdrawal))
         withdrawal_rows.append(
@@ -578,24 +573,7 @@ w3.metric("Total Withdrawal with Dividend", format_rm(total_withdrawal_value))
 
 
 # ==========================================================
-# 6. INVESTMENT SUMMARY
-# ==========================================================
-st.header("📈 Investment Summary")
-st.markdown(
-    """
-    <div class="information-note"><b>Note:</b> This summary is generated
-    from the Yearly Investment Projection up to the selected withdrawal date.</div>
-    """,
-    unsafe_allow_html=True,
-)
-i1, i2, i3 = st.columns(3)
-i1.metric("Total Principal", format_rm(total_principal))
-i2.metric("Total Estimated Dividend Earned", format_rm(total_estimated_dividend))
-i3.metric("Total Estimated Earned Value", format_rm(total_estimated_earned_value))
-
-
-# ==========================================================
-# 7. PROFIT / LOSS BY AGENCY AND OVERALL
+# 6. PROFIT / LOSS BY AGENCY AND OVERALL
 # ==========================================================
 st.header("💹 Profit / Loss Analysis")
 st.markdown(
@@ -659,3 +637,4 @@ else:
         else:
             result_html = f'<div class="result-card"><div class="result-title">No Difference</div><div class="result-even">— {format_rm(0)}</div></div>'
         c3.markdown(result_html, unsafe_allow_html=True)
+
