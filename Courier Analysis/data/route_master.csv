@@ -1,0 +1,69 @@
+﻿Origin Region,Destination Region,Vehicle Type,Service Level,Target Delivery (Days),Priority
+Peninsular,Peninsular,Motorcycle,Economy,3–7,Low
+Peninsular,Peninsular,Van,Economy,3–7,Low
+Peninsular,Peninsular,1-Ton Lorry,Economy,3–7,Low
+Peninsular,Peninsular,3-Ton Lorry,Economy,3–7,Low
+Peninsular,Peninsular,Motorcycle,Standard,2–5,Medium
+Peninsular,Peninsular,Van,Standard,2–5,Medium
+Peninsular,Peninsular,1-Ton Lorry,Standard,2–5,Medium
+Peninsular,Peninsular,3-Ton Lorry,Standard,2–5,Medium
+Peninsular,Peninsular,Motorcycle,Next Day,Next Day,High
+Peninsular,Peninsular,Van,Next Day,Next Day,High
+Peninsular,Peninsular,1-Ton Lorry,Next Day,Next Day,High
+Peninsular,Peninsular,3-Ton Lorry,Next Day,Next Day,High
+Peninsular,Peninsular,Motorcycle,Same Day,Same Day,Highest
+Peninsular,Peninsular,Van,Same Day,Same Day,Highest
+Peninsular,Peninsular,1-Ton Lorry,Same Day,Same Day,Highest
+Peninsular,Peninsular,3-Ton Lorry,Same Day,Same Day,Highest
+Peninsular,Sabah,Air Cargo,Standard,2–5,Medium
+Peninsular,Sabah,Air Cargo,Next Day,Next Day,High
+Peninsular,Sabah,Air Cargo,Economy,3–7,Low
+Peninsular,Sabah,Sea Freight,Economy,3–7,Low
+Peninsular,Sarawak,Air Cargo,Standard,2–5,Medium
+Peninsular,Sarawak,Air Cargo,Next Day,Next Day,High
+Peninsular,Sarawak,Air Cargo,Economy,3–7,Low
+Peninsular,Sarawak,Sea Freight,Economy,3–7,Low
+Sabah,Peninsular,Air Cargo,Standard,2–5,Medium
+Sabah,Peninsular,Air Cargo,Next Day,Next Day,High
+Sabah,Peninsular,Sea Freight,Economy,3–7,Low
+Sarawak,Peninsular,Air Cargo,Standard,2–5,Medium
+Sarawak,Peninsular,Air Cargo,Next Day,Next Day,High
+Sarawak,Peninsular,Sea Freight,Economy,3–7,Low
+Sabah,Sabah,Motorcycle,Standard,2–5,Medium
+Sabah,Sabah,Van,Standard,2–5,Medium
+Sabah,Sabah,1-Ton Lorry,Standard,2–5,Medium
+Sabah,Sabah,3-Ton Lorry,Standard,2–5,Medium
+Sabah,Sabah,Motorcycle,Next Day,Next Day,High
+Sabah,Sabah,Van,Next Day,Next Day,High
+Sabah,Sabah,1-Ton Lorry,Next Day,Next Day,High
+Sabah,Sabah,3-Ton Lorry,Next Day,Next Day,High
+Sabah,Sabah,Motorcycle,Same Day,Same Day,Highest
+Sabah,Sabah,Van,Same Day,Same Day,Highest
+Sabah,Sabah,1-Ton Lorry,Same Day,Same Day,Highest
+Sabah,Sabah,3-Ton Lorry,Same Day,Same Day,Highest
+Sabah,Sabah,Motorcycle,Economy,3–7,Low
+Sabah,Sabah,Van,Economy,3–7,Low
+Sabah,Sabah,1-Ton Lorry,Economy,3–7,Low
+Sabah,Sabah,3-Ton Lorry,Economy,3–7,Low
+Sarawak,Sarawak,Motorcycle,Standard,2–5,Medium
+Sarawak,Sarawak,Van,Standard,2–5,Medium
+Sarawak,Sarawak,1-Ton Lorry,Standard,2–5,Medium
+Sarawak,Sarawak,3-Ton Lorry,Standard,2–5,Medium
+Sarawak,Sarawak,Motorcycle,Next Day,Next Day,High
+Sarawak,Sarawak,Van,Next Day,Next Day,High
+Sarawak,Sarawak,1-Ton Lorry,Next Day,Next Day,High
+Sarawak,Sarawak,3-Ton Lorry,Next Day,Next Day,High
+Sarawak,Sarawak,Motorcycle,Same Day,Same Day,Highest
+Sarawak,Sarawak,Van,Same Day,Same Day,Highest
+Sarawak,Sarawak,1-Ton Lorry,Same Day,Same Day,Highest
+Sarawak,Sarawak,3-Ton Lorry,Same Day,Same Day,Highest
+Sarawak,Sarawak,Motorcycle,Economy,3–7,Low
+Sarawak,Sarawak,Van,Economy,3–7,Low
+Sarawak,Sarawak,1-Ton Lorry,Economy,3–7,Low
+Sarawak,Sarawak,3-Ton Lorry,Economy,3–7,Low
+Sabah,Sarawak,Air Cargo,Standard,2–5,Medium
+Sabah,Sarawak,Air Cargo,Economy,3–7,Low
+Sabah,Sarawak,Air Cargo,Next Day,Next Day,High
+Sarawak,Sabah,Air Cargo,Standard,2–5,Medium
+Sarawak,Sabah,Air Cargo,Economy,3–7,Low
+Sarawak,Sabah,Air Cargo,Next Day,Next Day,High

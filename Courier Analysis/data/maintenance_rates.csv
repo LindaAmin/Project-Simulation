@@ -1,0 +1,5 @@
+﻿Vehicle Type,Service Interval (km),Service Cost (RM)
+Motorcycle,"1,000",150
+Van,"10,000",450
+1-Ton Lorry,"10,000",700
+3-Ton Lorry,"10,000","1,200"

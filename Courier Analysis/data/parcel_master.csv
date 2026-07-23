@@ -1,0 +1,5 @@
+﻿Parcel Type,Length (cm),Width (cm),Height (cm),Max Weight (kg),Volumetric Divisor
+Small,20,20,10,2,5000
+Medium,40,30,20,10,5000
+Large,60,50,40,30,5000
+Oversized,User Input,User Input,User Input,User Input,5000

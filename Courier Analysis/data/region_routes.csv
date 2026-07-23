@@ -1,0 +1,457 @@
+﻿Route ID,Origin Region,Destination Region,Vehicle Type,Service Level,Target Delivery (Days),Priority
+RT001,Northern,Northern,Motorcycle,Economy,3–7 Days,Low
+RT002,Northern,Northern,Motorcycle,Standard,2–5 Days,Medium
+RT003,Northern,Northern,Motorcycle,Next Day,Next Day,High
+RT004,Northern,Northern,Motorcycle,Same Day,Same Day,Highest
+RT005,Northern,Northern,Van,Economy,3–7 Days,Low
+RT006,Northern,Northern,Van,Standard,2–5 Days,Medium
+RT007,Northern,Northern,Van,Next Day,Next Day,High
+RT008,Northern,Northern,Van,Same Day,Same Day,Highest
+RT009,Northern,Northern,1-Ton Lorry,Economy,3–7 Days,Low
+RT010,Northern,Northern,1-Ton Lorry,Standard,2–5 Days,Medium
+RT011,Northern,Northern,1-Ton Lorry,Next Day,Next Day,High
+RT012,Northern,Northern,1-Ton Lorry,Same Day,Same Day,Highest
+RT013,Northern,Northern,3-Ton Lorry,Economy,3–7 Days,Low
+RT014,Northern,Northern,3-Ton Lorry,Standard,2–5 Days,Medium
+RT015,Northern,Northern,3-Ton Lorry,Next Day,Next Day,High
+RT016,Northern,Northern,3-Ton Lorry,Same Day,Same Day,Highest
+RT017,Northern,Central,Motorcycle,Economy,3–7 Days,Low
+RT018,Northern,Central,Motorcycle,Standard,2–5 Days,Medium
+RT019,Northern,Central,Motorcycle,Next Day,Next Day,High
+RT020,Northern,Central,Motorcycle,Same Day,Same Day,Highest
+RT021,Northern,Central,Van,Economy,3–7 Days,Low
+RT022,Northern,Central,Van,Standard,2–5 Days,Medium
+RT023,Northern,Central,Van,Next Day,Next Day,High
+RT024,Northern,Central,Van,Same Day,Same Day,Highest
+RT025,Northern,Central,1-Ton Lorry,Economy,3–7 Days,Low
+RT026,Northern,Central,1-Ton Lorry,Standard,2–5 Days,Medium
+RT027,Northern,Central,1-Ton Lorry,Next Day,Next Day,High
+RT028,Northern,Central,1-Ton Lorry,Same Day,Same Day,Highest
+RT029,Northern,Central,3-Ton Lorry,Economy,3–7 Days,Low
+RT030,Northern,Central,3-Ton Lorry,Standard,2–5 Days,Medium
+RT031,Northern,Central,3-Ton Lorry,Next Day,Next Day,High
+RT032,Northern,Central,3-Ton Lorry,Same Day,Same Day,Highest
+RT033,Northern,Southern,Motorcycle,Economy,3–7 Days,Low
+RT034,Northern,Southern,Motorcycle,Standard,2–5 Days,Medium
+RT035,Northern,Southern,Motorcycle,Next Day,Next Day,High
+RT036,Northern,Southern,Motorcycle,Same Day,Same Day,Highest
+RT037,Northern,Southern,Van,Economy,3–7 Days,Low
+RT038,Northern,Southern,Van,Standard,2–5 Days,Medium
+RT039,Northern,Southern,Van,Next Day,Next Day,High
+RT040,Northern,Southern,Van,Same Day,Same Day,Highest
+RT041,Northern,Southern,1-Ton Lorry,Economy,3–7 Days,Low
+RT042,Northern,Southern,1-Ton Lorry,Standard,2–5 Days,Medium
+RT043,Northern,Southern,1-Ton Lorry,Next Day,Next Day,High
+RT044,Northern,Southern,1-Ton Lorry,Same Day,Same Day,Highest
+RT045,Northern,Southern,3-Ton Lorry,Economy,3–7 Days,Low
+RT046,Northern,Southern,3-Ton Lorry,Standard,2–5 Days,Medium
+RT047,Northern,Southern,3-Ton Lorry,Next Day,Next Day,High
+RT048,Northern,Southern,3-Ton Lorry,Same Day,Same Day,Highest
+RT049,Northern,East Coast,Motorcycle,Economy,3–7 Days,Low
+RT050,Northern,East Coast,Motorcycle,Standard,2–5 Days,Medium
+RT051,Northern,East Coast,Motorcycle,Next Day,Next Day,High
+RT052,Northern,East Coast,Motorcycle,Same Day,Same Day,Highest
+RT053,Northern,East Coast,Van,Economy,3–7 Days,Low
+RT054,Northern,East Coast,Van,Standard,2–5 Days,Medium
+RT055,Northern,East Coast,Van,Next Day,Next Day,High
+RT056,Northern,East Coast,Van,Same Day,Same Day,Highest
+RT057,Northern,East Coast,1-Ton Lorry,Economy,3–7 Days,Low
+RT058,Northern,East Coast,1-Ton Lorry,Standard,2–5 Days,Medium
+RT059,Northern,East Coast,1-Ton Lorry,Next Day,Next Day,High
+RT060,Northern,East Coast,1-Ton Lorry,Same Day,Same Day,Highest
+RT061,Northern,East Coast,3-Ton Lorry,Economy,3–7 Days,Low
+RT062,Northern,East Coast,3-Ton Lorry,Standard,2–5 Days,Medium
+RT063,Northern,East Coast,3-Ton Lorry,Next Day,Next Day,High
+RT064,Northern,East Coast,3-Ton Lorry,Same Day,Same Day,Highest
+RT065,Northern,Sabah,Sea Freight,Economy,3–7 Days,Low
+RT066,Northern,Sabah,Sea Freight,Standard,2–5 Days,Medium
+RT067,Northern,Sabah,Sea Freight,Next Day,Next Day,High
+RT068,Northern,Sabah,Sea Freight,Same Day,Same Day,Highest
+RT069,Northern,Sabah,Air Cargo,Economy,3–7 Days,Low
+RT070,Northern,Sabah,Air Cargo,Standard,2–5 Days,Medium
+RT071,Northern,Sabah,Air Cargo,Next Day,Next Day,High
+RT072,Northern,Sabah,Air Cargo,Same Day,Same Day,Highest
+RT073,Northern,Sarawak,Sea Freight,Economy,3–7 Days,Low
+RT074,Northern,Sarawak,Sea Freight,Standard,2–5 Days,Medium
+RT075,Northern,Sarawak,Sea Freight,Next Day,Next Day,High
+RT076,Northern,Sarawak,Sea Freight,Same Day,Same Day,Highest
+RT077,Northern,Sarawak,Air Cargo,Economy,3–7 Days,Low
+RT078,Northern,Sarawak,Air Cargo,Standard,2–5 Days,Medium
+RT079,Northern,Sarawak,Air Cargo,Next Day,Next Day,High
+RT080,Northern,Sarawak,Air Cargo,Same Day,Same Day,Highest
+RT081,Central,Northern,Motorcycle,Economy,3–7 Days,Low
+RT082,Central,Northern,Motorcycle,Standard,2–5 Days,Medium
+RT083,Central,Northern,Motorcycle,Next Day,Next Day,High
+RT084,Central,Northern,Motorcycle,Same Day,Same Day,Highest
+RT085,Central,Northern,Van,Economy,3–7 Days,Low
+RT086,Central,Northern,Van,Standard,2–5 Days,Medium
+RT087,Central,Northern,Van,Next Day,Next Day,High
+RT088,Central,Northern,Van,Same Day,Same Day,Highest
+RT089,Central,Northern,1-Ton Lorry,Economy,3–7 Days,Low
+RT090,Central,Northern,1-Ton Lorry,Standard,2–5 Days,Medium
+RT091,Central,Northern,1-Ton Lorry,Next Day,Next Day,High
+RT092,Central,Northern,1-Ton Lorry,Same Day,Same Day,Highest
+RT093,Central,Northern,3-Ton Lorry,Economy,3–7 Days,Low
+RT094,Central,Northern,3-Ton Lorry,Standard,2–5 Days,Medium
+RT095,Central,Northern,3-Ton Lorry,Next Day,Next Day,High
+RT096,Central,Northern,3-Ton Lorry,Same Day,Same Day,Highest
+RT097,Central,Central,Motorcycle,Economy,3–7 Days,Low
+RT098,Central,Central,Motorcycle,Standard,2–5 Days,Medium
+RT099,Central,Central,Motorcycle,Next Day,Next Day,High
+RT100,Central,Central,Motorcycle,Same Day,Same Day,Highest
+RT101,Central,Central,Van,Economy,3–7 Days,Low
+RT102,Central,Central,Van,Standard,2–5 Days,Medium
+RT103,Central,Central,Van,Next Day,Next Day,High
+RT104,Central,Central,Van,Same Day,Same Day,Highest
+RT105,Central,Central,1-Ton Lorry,Economy,3–7 Days,Low
+RT106,Central,Central,1-Ton Lorry,Standard,2–5 Days,Medium
+RT107,Central,Central,1-Ton Lorry,Next Day,Next Day,High
+RT108,Central,Central,1-Ton Lorry,Same Day,Same Day,Highest
+RT109,Central,Central,3-Ton Lorry,Economy,3–7 Days,Low
+RT110,Central,Central,3-Ton Lorry,Standard,2–5 Days,Medium
+RT111,Central,Central,3-Ton Lorry,Next Day,Next Day,High
+RT112,Central,Central,3-Ton Lorry,Same Day,Same Day,Highest
+RT113,Central,Southern,Motorcycle,Economy,3–7 Days,Low
+RT114,Central,Southern,Motorcycle,Standard,2–5 Days,Medium
+RT115,Central,Southern,Motorcycle,Next Day,Next Day,High
+RT116,Central,Southern,Motorcycle,Same Day,Same Day,Highest
+RT117,Central,Southern,Van,Economy,3–7 Days,Low
+RT118,Central,Southern,Van,Standard,2–5 Days,Medium
+RT119,Central,Southern,Van,Next Day,Next Day,High
+RT120,Central,Southern,Van,Same Day,Same Day,Highest
+RT121,Central,Southern,1-Ton Lorry,Economy,3–7 Days,Low
+RT122,Central,Southern,1-Ton Lorry,Standard,2–5 Days,Medium
+RT123,Central,Southern,1-Ton Lorry,Next Day,Next Day,High
+RT124,Central,Southern,1-Ton Lorry,Same Day,Same Day,Highest
+RT125,Central,Southern,3-Ton Lorry,Economy,3–7 Days,Low
+RT126,Central,Southern,3-Ton Lorry,Standard,2–5 Days,Medium
+RT127,Central,Southern,3-Ton Lorry,Next Day,Next Day,High
+RT128,Central,Southern,3-Ton Lorry,Same Day,Same Day,Highest
+RT129,Central,East Coast,Motorcycle,Economy,3–7 Days,Low
+RT130,Central,East Coast,Motorcycle,Standard,2–5 Days,Medium
+RT131,Central,East Coast,Motorcycle,Next Day,Next Day,High
+RT132,Central,East Coast,Motorcycle,Same Day,Same Day,Highest
+RT133,Central,East Coast,Van,Economy,3–7 Days,Low
+RT134,Central,East Coast,Van,Standard,2–5 Days,Medium
+RT135,Central,East Coast,Van,Next Day,Next Day,High
+RT136,Central,East Coast,Van,Same Day,Same Day,Highest
+RT137,Central,East Coast,1-Ton Lorry,Economy,3–7 Days,Low
+RT138,Central,East Coast,1-Ton Lorry,Standard,2–5 Days,Medium
+RT139,Central,East Coast,1-Ton Lorry,Next Day,Next Day,High
+RT140,Central,East Coast,1-Ton Lorry,Same Day,Same Day,Highest
+RT141,Central,East Coast,3-Ton Lorry,Economy,3–7 Days,Low
+RT142,Central,East Coast,3-Ton Lorry,Standard,2–5 Days,Medium
+RT143,Central,East Coast,3-Ton Lorry,Next Day,Next Day,High
+RT144,Central,East Coast,3-Ton Lorry,Same Day,Same Day,Highest
+RT145,Central,Sabah,Sea Freight,Economy,3–7 Days,Low
+RT146,Central,Sabah,Sea Freight,Standard,2–5 Days,Medium
+RT147,Central,Sabah,Sea Freight,Next Day,Next Day,High
+RT148,Central,Sabah,Sea Freight,Same Day,Same Day,Highest
+RT149,Central,Sabah,Air Cargo,Economy,3–7 Days,Low
+RT150,Central,Sabah,Air Cargo,Standard,2–5 Days,Medium
+RT151,Central,Sabah,Air Cargo,Next Day,Next Day,High
+RT152,Central,Sabah,Air Cargo,Same Day,Same Day,Highest
+RT153,Central,Sarawak,Sea Freight,Economy,3–7 Days,Low
+RT154,Central,Sarawak,Sea Freight,Standard,2–5 Days,Medium
+RT155,Central,Sarawak,Sea Freight,Next Day,Next Day,High
+RT156,Central,Sarawak,Sea Freight,Same Day,Same Day,Highest
+RT157,Central,Sarawak,Air Cargo,Economy,3–7 Days,Low
+RT158,Central,Sarawak,Air Cargo,Standard,2–5 Days,Medium
+RT159,Central,Sarawak,Air Cargo,Next Day,Next Day,High
+RT160,Central,Sarawak,Air Cargo,Same Day,Same Day,Highest
+RT161,Southern,Northern,Motorcycle,Economy,3–7 Days,Low
+RT162,Southern,Northern,Motorcycle,Standard,2–5 Days,Medium
+RT163,Southern,Northern,Motorcycle,Next Day,Next Day,High
+RT164,Southern,Northern,Motorcycle,Same Day,Same Day,Highest
+RT165,Southern,Northern,Van,Economy,3–7 Days,Low
+RT166,Southern,Northern,Van,Standard,2–5 Days,Medium
+RT167,Southern,Northern,Van,Next Day,Next Day,High
+RT168,Southern,Northern,Van,Same Day,Same Day,Highest
+RT169,Southern,Northern,1-Ton Lorry,Economy,3–7 Days,Low
+RT170,Southern,Northern,1-Ton Lorry,Standard,2–5 Days,Medium
+RT171,Southern,Northern,1-Ton Lorry,Next Day,Next Day,High
+RT172,Southern,Northern,1-Ton Lorry,Same Day,Same Day,Highest
+RT173,Southern,Northern,3-Ton Lorry,Economy,3–7 Days,Low
+RT174,Southern,Northern,3-Ton Lorry,Standard,2–5 Days,Medium
+RT175,Southern,Northern,3-Ton Lorry,Next Day,Next Day,High
+RT176,Southern,Northern,3-Ton Lorry,Same Day,Same Day,Highest
+RT177,Southern,Central,Motorcycle,Economy,3–7 Days,Low
+RT178,Southern,Central,Motorcycle,Standard,2–5 Days,Medium
+RT179,Southern,Central,Motorcycle,Next Day,Next Day,High
+RT180,Southern,Central,Motorcycle,Same Day,Same Day,Highest
+RT181,Southern,Central,Van,Economy,3–7 Days,Low
+RT182,Southern,Central,Van,Standard,2–5 Days,Medium
+RT183,Southern,Central,Van,Next Day,Next Day,High
+RT184,Southern,Central,Van,Same Day,Same Day,Highest
+RT185,Southern,Central,1-Ton Lorry,Economy,3–7 Days,Low
+RT186,Southern,Central,1-Ton Lorry,Standard,2–5 Days,Medium
+RT187,Southern,Central,1-Ton Lorry,Next Day,Next Day,High
+RT188,Southern,Central,1-Ton Lorry,Same Day,Same Day,Highest
+RT189,Southern,Central,3-Ton Lorry,Economy,3–7 Days,Low
+RT190,Southern,Central,3-Ton Lorry,Standard,2–5 Days,Medium
+RT191,Southern,Central,3-Ton Lorry,Next Day,Next Day,High
+RT192,Southern,Central,3-Ton Lorry,Same Day,Same Day,Highest
+RT193,Southern,Southern,Motorcycle,Economy,3–7 Days,Low
+RT194,Southern,Southern,Motorcycle,Standard,2–5 Days,Medium
+RT195,Southern,Southern,Motorcycle,Next Day,Next Day,High
+RT196,Southern,Southern,Motorcycle,Same Day,Same Day,Highest
+RT197,Southern,Southern,Van,Economy,3–7 Days,Low
+RT198,Southern,Southern,Van,Standard,2–5 Days,Medium
+RT199,Southern,Southern,Van,Next Day,Next Day,High
+RT200,Southern,Southern,Van,Same Day,Same Day,Highest
+RT201,Southern,Southern,1-Ton Lorry,Economy,3–7 Days,Low
+RT202,Southern,Southern,1-Ton Lorry,Standard,2–5 Days,Medium
+RT203,Southern,Southern,1-Ton Lorry,Next Day,Next Day,High
+RT204,Southern,Southern,1-Ton Lorry,Same Day,Same Day,Highest
+RT205,Southern,Southern,3-Ton Lorry,Economy,3–7 Days,Low
+RT206,Southern,Southern,3-Ton Lorry,Standard,2–5 Days,Medium
+RT207,Southern,Southern,3-Ton Lorry,Next Day,Next Day,High
+RT208,Southern,Southern,3-Ton Lorry,Same Day,Same Day,Highest
+RT209,Southern,East Coast,Motorcycle,Economy,3–7 Days,Low
+RT210,Southern,East Coast,Motorcycle,Standard,2–5 Days,Medium
+RT211,Southern,East Coast,Motorcycle,Next Day,Next Day,High
+RT212,Southern,East Coast,Motorcycle,Same Day,Same Day,Highest
+RT213,Southern,East Coast,Van,Economy,3–7 Days,Low
+RT214,Southern,East Coast,Van,Standard,2–5 Days,Medium
+RT215,Southern,East Coast,Van,Next Day,Next Day,High
+RT216,Southern,East Coast,Van,Same Day,Same Day,Highest
+RT217,Southern,East Coast,1-Ton Lorry,Economy,3–7 Days,Low
+RT218,Southern,East Coast,1-Ton Lorry,Standard,2–5 Days,Medium
+RT219,Southern,East Coast,1-Ton Lorry,Next Day,Next Day,High
+RT220,Southern,East Coast,1-Ton Lorry,Same Day,Same Day,Highest
+RT221,Southern,East Coast,3-Ton Lorry,Economy,3–7 Days,Low
+RT222,Southern,East Coast,3-Ton Lorry,Standard,2–5 Days,Medium
+RT223,Southern,East Coast,3-Ton Lorry,Next Day,Next Day,High
+RT224,Southern,East Coast,3-Ton Lorry,Same Day,Same Day,Highest
+RT225,Southern,Sabah,Sea Freight,Economy,3–7 Days,Low
+RT226,Southern,Sabah,Sea Freight,Standard,2–5 Days,Medium
+RT227,Southern,Sabah,Sea Freight,Next Day,Next Day,High
+RT228,Southern,Sabah,Sea Freight,Same Day,Same Day,Highest
+RT229,Southern,Sabah,Air Cargo,Economy,3–7 Days,Low
+RT230,Southern,Sabah,Air Cargo,Standard,2–5 Days,Medium
+RT231,Southern,Sabah,Air Cargo,Next Day,Next Day,High
+RT232,Southern,Sabah,Air Cargo,Same Day,Same Day,Highest
+RT233,Southern,Sarawak,Sea Freight,Economy,3–7 Days,Low
+RT234,Southern,Sarawak,Sea Freight,Standard,2–5 Days,Medium
+RT235,Southern,Sarawak,Sea Freight,Next Day,Next Day,High
+RT236,Southern,Sarawak,Sea Freight,Same Day,Same Day,Highest
+RT237,Southern,Sarawak,Air Cargo,Economy,3–7 Days,Low
+RT238,Southern,Sarawak,Air Cargo,Standard,2–5 Days,Medium
+RT239,Southern,Sarawak,Air Cargo,Next Day,Next Day,High
+RT240,Southern,Sarawak,Air Cargo,Same Day,Same Day,Highest
+RT241,East Coast,Northern,Motorcycle,Economy,3–7 Days,Low
+RT242,East Coast,Northern,Motorcycle,Standard,2–5 Days,Medium
+RT243,East Coast,Northern,Motorcycle,Next Day,Next Day,High
+RT244,East Coast,Northern,Motorcycle,Same Day,Same Day,Highest
+RT245,East Coast,Northern,Van,Economy,3–7 Days,Low
+RT246,East Coast,Northern,Van,Standard,2–5 Days,Medium
+RT247,East Coast,Northern,Van,Next Day,Next Day,High
+RT248,East Coast,Northern,Van,Same Day,Same Day,Highest
+RT249,East Coast,Northern,1-Ton Lorry,Economy,3–7 Days,Low
+RT250,East Coast,Northern,1-Ton Lorry,Standard,2–5 Days,Medium
+RT251,East Coast,Northern,1-Ton Lorry,Next Day,Next Day,High
+RT252,East Coast,Northern,1-Ton Lorry,Same Day,Same Day,Highest
+RT253,East Coast,Northern,3-Ton Lorry,Economy,3–7 Days,Low
+RT254,East Coast,Northern,3-Ton Lorry,Standard,2–5 Days,Medium
+RT255,East Coast,Northern,3-Ton Lorry,Next Day,Next Day,High
+RT256,East Coast,Northern,3-Ton Lorry,Same Day,Same Day,Highest
+RT257,East Coast,Central,Motorcycle,Economy,3–7 Days,Low
+RT258,East Coast,Central,Motorcycle,Standard,2–5 Days,Medium
+RT259,East Coast,Central,Motorcycle,Next Day,Next Day,High
+RT260,East Coast,Central,Motorcycle,Same Day,Same Day,Highest
+RT261,East Coast,Central,Van,Economy,3–7 Days,Low
+RT262,East Coast,Central,Van,Standard,2–5 Days,Medium
+RT263,East Coast,Central,Van,Next Day,Next Day,High
+RT264,East Coast,Central,Van,Same Day,Same Day,Highest
+RT265,East Coast,Central,1-Ton Lorry,Economy,3–7 Days,Low
+RT266,East Coast,Central,1-Ton Lorry,Standard,2–5 Days,Medium
+RT267,East Coast,Central,1-Ton Lorry,Next Day,Next Day,High
+RT268,East Coast,Central,1-Ton Lorry,Same Day,Same Day,Highest
+RT269,East Coast,Central,3-Ton Lorry,Economy,3–7 Days,Low
+RT270,East Coast,Central,3-Ton Lorry,Standard,2–5 Days,Medium
+RT271,East Coast,Central,3-Ton Lorry,Next Day,Next Day,High
+RT272,East Coast,Central,3-Ton Lorry,Same Day,Same Day,Highest
+RT273,East Coast,Southern,Motorcycle,Economy,3–7 Days,Low
+RT274,East Coast,Southern,Motorcycle,Standard,2–5 Days,Medium
+RT275,East Coast,Southern,Motorcycle,Next Day,Next Day,High
+RT276,East Coast,Southern,Motorcycle,Same Day,Same Day,Highest
+RT277,East Coast,Southern,Van,Economy,3–7 Days,Low
+RT278,East Coast,Southern,Van,Standard,2–5 Days,Medium
+RT279,East Coast,Southern,Van,Next Day,Next Day,High
+RT280,East Coast,Southern,Van,Same Day,Same Day,Highest
+RT281,East Coast,Southern,1-Ton Lorry,Economy,3–7 Days,Low
+RT282,East Coast,Southern,1-Ton Lorry,Standard,2–5 Days,Medium
+RT283,East Coast,Southern,1-Ton Lorry,Next Day,Next Day,High
+RT284,East Coast,Southern,1-Ton Lorry,Same Day,Same Day,Highest
+RT285,East Coast,Southern,3-Ton Lorry,Economy,3–7 Days,Low
+RT286,East Coast,Southern,3-Ton Lorry,Standard,2–5 Days,Medium
+RT287,East Coast,Southern,3-Ton Lorry,Next Day,Next Day,High
+RT288,East Coast,Southern,3-Ton Lorry,Same Day,Same Day,Highest
+RT289,East Coast,East Coast,Motorcycle,Economy,3–7 Days,Low
+RT290,East Coast,East Coast,Motorcycle,Standard,2–5 Days,Medium
+RT291,East Coast,East Coast,Motorcycle,Next Day,Next Day,High
+RT292,East Coast,East Coast,Motorcycle,Same Day,Same Day,Highest
+RT293,East Coast,East Coast,Van,Economy,3–7 Days,Low
+RT294,East Coast,East Coast,Van,Standard,2–5 Days,Medium
+RT295,East Coast,East Coast,Van,Next Day,Next Day,High
+RT296,East Coast,East Coast,Van,Same Day,Same Day,Highest
+RT297,East Coast,East Coast,1-Ton Lorry,Economy,3–7 Days,Low
+RT298,East Coast,East Coast,1-Ton Lorry,Standard,2–5 Days,Medium
+RT299,East Coast,East Coast,1-Ton Lorry,Next Day,Next Day,High
+RT300,East Coast,East Coast,1-Ton Lorry,Same Day,Same Day,Highest
+RT301,East Coast,East Coast,3-Ton Lorry,Economy,3–7 Days,Low
+RT302,East Coast,East Coast,3-Ton Lorry,Standard,2–5 Days,Medium
+RT303,East Coast,East Coast,3-Ton Lorry,Next Day,Next Day,High
+RT304,East Coast,East Coast,3-Ton Lorry,Same Day,Same Day,Highest
+RT305,East Coast,Sabah,Sea Freight,Economy,3–7 Days,Low
+RT306,East Coast,Sabah,Sea Freight,Standard,2–5 Days,Medium
+RT307,East Coast,Sabah,Sea Freight,Next Day,Next Day,High
+RT308,East Coast,Sabah,Sea Freight,Same Day,Same Day,Highest
+RT309,East Coast,Sabah,Air Cargo,Economy,3–7 Days,Low
+RT310,East Coast,Sabah,Air Cargo,Standard,2–5 Days,Medium
+RT311,East Coast,Sabah,Air Cargo,Next Day,Next Day,High
+RT312,East Coast,Sabah,Air Cargo,Same Day,Same Day,Highest
+RT313,East Coast,Sarawak,Sea Freight,Economy,3–7 Days,Low
+RT314,East Coast,Sarawak,Sea Freight,Standard,2–5 Days,Medium
+RT315,East Coast,Sarawak,Sea Freight,Next Day,Next Day,High
+RT316,East Coast,Sarawak,Sea Freight,Same Day,Same Day,Highest
+RT317,East Coast,Sarawak,Air Cargo,Economy,3–7 Days,Low
+RT318,East Coast,Sarawak,Air Cargo,Standard,2–5 Days,Medium
+RT319,East Coast,Sarawak,Air Cargo,Next Day,Next Day,High
+RT320,East Coast,Sarawak,Air Cargo,Same Day,Same Day,Highest
+RT321,Sabah,Northern,Sea Freight,Economy,3–7 Days,Low
+RT322,Sabah,Northern,Sea Freight,Standard,2–5 Days,Medium
+RT323,Sabah,Northern,Sea Freight,Next Day,Next Day,High
+RT324,Sabah,Northern,Sea Freight,Same Day,Same Day,Highest
+RT325,Sabah,Northern,Air Cargo,Economy,3–7 Days,Low
+RT326,Sabah,Northern,Air Cargo,Standard,2–5 Days,Medium
+RT327,Sabah,Northern,Air Cargo,Next Day,Next Day,High
+RT328,Sabah,Northern,Air Cargo,Same Day,Same Day,Highest
+RT329,Sabah,Central,Sea Freight,Economy,3–7 Days,Low
+RT330,Sabah,Central,Sea Freight,Standard,2–5 Days,Medium
+RT331,Sabah,Central,Sea Freight,Next Day,Next Day,High
+RT332,Sabah,Central,Sea Freight,Same Day,Same Day,Highest
+RT333,Sabah,Central,Air Cargo,Economy,3–7 Days,Low
+RT334,Sabah,Central,Air Cargo,Standard,2–5 Days,Medium
+RT335,Sabah,Central,Air Cargo,Next Day,Next Day,High
+RT336,Sabah,Central,Air Cargo,Same Day,Same Day,Highest
+RT337,Sabah,Southern,Sea Freight,Economy,3–7 Days,Low
+RT338,Sabah,Southern,Sea Freight,Standard,2–5 Days,Medium
+RT339,Sabah,Southern,Sea Freight,Next Day,Next Day,High
+RT340,Sabah,Southern,Sea Freight,Same Day,Same Day,Highest
+RT341,Sabah,Southern,Air Cargo,Economy,3–7 Days,Low
+RT342,Sabah,Southern,Air Cargo,Standard,2–5 Days,Medium
+RT343,Sabah,Southern,Air Cargo,Next Day,Next Day,High
+RT344,Sabah,Southern,Air Cargo,Same Day,Same Day,Highest
+RT345,Sabah,East Coast,Sea Freight,Economy,3–7 Days,Low
+RT346,Sabah,East Coast,Sea Freight,Standard,2–5 Days,Medium
+RT347,Sabah,East Coast,Sea Freight,Next Day,Next Day,High
+RT348,Sabah,East Coast,Sea Freight,Same Day,Same Day,Highest
+RT349,Sabah,East Coast,Air Cargo,Economy,3–7 Days,Low
+RT350,Sabah,East Coast,Air Cargo,Standard,2–5 Days,Medium
+RT351,Sabah,East Coast,Air Cargo,Next Day,Next Day,High
+RT352,Sabah,East Coast,Air Cargo,Same Day,Same Day,Highest
+RT353,Sabah,Sabah,Motorcycle,Economy,3–7 Days,Low
+RT354,Sabah,Sabah,Motorcycle,Standard,2–5 Days,Medium
+RT355,Sabah,Sabah,Motorcycle,Next Day,Next Day,High
+RT356,Sabah,Sabah,Motorcycle,Same Day,Same Day,Highest
+RT357,Sabah,Sabah,Van,Economy,3–7 Days,Low
+RT358,Sabah,Sabah,Van,Standard,2–5 Days,Medium
+RT359,Sabah,Sabah,Van,Next Day,Next Day,High
+RT360,Sabah,Sabah,Van,Same Day,Same Day,Highest
+RT361,Sabah,Sabah,1-Ton Lorry,Economy,3–7 Days,Low
+RT362,Sabah,Sabah,1-Ton Lorry,Standard,2–5 Days,Medium
+RT363,Sabah,Sabah,1-Ton Lorry,Next Day,Next Day,High
+RT364,Sabah,Sabah,1-Ton Lorry,Same Day,Same Day,Highest
+RT365,Sabah,Sabah,3-Ton Lorry,Economy,3–7 Days,Low
+RT366,Sabah,Sabah,3-Ton Lorry,Standard,2–5 Days,Medium
+RT367,Sabah,Sabah,3-Ton Lorry,Next Day,Next Day,High
+RT368,Sabah,Sabah,3-Ton Lorry,Same Day,Same Day,Highest
+RT369,Sabah,Sarawak,Motorcycle,Economy,3–7 Days,Low
+RT370,Sabah,Sarawak,Motorcycle,Standard,2–5 Days,Medium
+RT371,Sabah,Sarawak,Motorcycle,Next Day,Next Day,High
+RT372,Sabah,Sarawak,Motorcycle,Same Day,Same Day,Highest
+RT373,Sabah,Sarawak,Van,Economy,3–7 Days,Low
+RT374,Sabah,Sarawak,Van,Standard,2–5 Days,Medium
+RT375,Sabah,Sarawak,Van,Next Day,Next Day,High
+RT376,Sabah,Sarawak,Van,Same Day,Same Day,Highest
+RT377,Sabah,Sarawak,1-Ton Lorry,Economy,3–7 Days,Low
+RT378,Sabah,Sarawak,1-Ton Lorry,Standard,2–5 Days,Medium
+RT379,Sabah,Sarawak,1-Ton Lorry,Next Day,Next Day,High
+RT380,Sabah,Sarawak,1-Ton Lorry,Same Day,Same Day,Highest
+RT381,Sabah,Sarawak,3-Ton Lorry,Economy,3–7 Days,Low
+RT382,Sabah,Sarawak,3-Ton Lorry,Standard,2–5 Days,Medium
+RT383,Sabah,Sarawak,3-Ton Lorry,Next Day,Next Day,High
+RT384,Sabah,Sarawak,3-Ton Lorry,Same Day,Same Day,Highest
+RT385,Sabah,Sarawak,Air Cargo,Economy,3–7 Days,Low
+RT386,Sabah,Sarawak,Air Cargo,Standard,2–5 Days,Medium
+RT387,Sabah,Sarawak,Air Cargo,Next Day,Next Day,High
+RT388,Sabah,Sarawak,Air Cargo,Same Day,Same Day,Highest
+RT389,Sarawak,Northern,Sea Freight,Economy,3–7 Days,Low
+RT390,Sarawak,Northern,Sea Freight,Standard,2–5 Days,Medium
+RT391,Sarawak,Northern,Sea Freight,Next Day,Next Day,High
+RT392,Sarawak,Northern,Sea Freight,Same Day,Same Day,Highest
+RT393,Sarawak,Northern,Air Cargo,Economy,3–7 Days,Low
+RT394,Sarawak,Northern,Air Cargo,Standard,2–5 Days,Medium
+RT395,Sarawak,Northern,Air Cargo,Next Day,Next Day,High
+RT396,Sarawak,Northern,Air Cargo,Same Day,Same Day,Highest
+RT397,Sarawak,Central,Sea Freight,Economy,3–7 Days,Low
+RT398,Sarawak,Central,Sea Freight,Standard,2–5 Days,Medium
+RT399,Sarawak,Central,Sea Freight,Next Day,Next Day,High
+RT400,Sarawak,Central,Sea Freight,Same Day,Same Day,Highest
+RT401,Sarawak,Central,Air Cargo,Economy,3–7 Days,Low
+RT402,Sarawak,Central,Air Cargo,Standard,2–5 Days,Medium
+RT403,Sarawak,Central,Air Cargo,Next Day,Next Day,High
+RT404,Sarawak,Central,Air Cargo,Same Day,Same Day,Highest
+RT405,Sarawak,Southern,Sea Freight,Economy,3–7 Days,Low
+RT406,Sarawak,Southern,Sea Freight,Standard,2–5 Days,Medium
+RT407,Sarawak,Southern,Sea Freight,Next Day,Next Day,High
+RT408,Sarawak,Southern,Sea Freight,Same Day,Same Day,Highest
+RT409,Sarawak,Southern,Air Cargo,Economy,3–7 Days,Low
+RT410,Sarawak,Southern,Air Cargo,Standard,2–5 Days,Medium
+RT411,Sarawak,Southern,Air Cargo,Next Day,Next Day,High
+RT412,Sarawak,Southern,Air Cargo,Same Day,Same Day,Highest
+RT413,Sarawak,East Coast,Sea Freight,Economy,3–7 Days,Low
+RT414,Sarawak,East Coast,Sea Freight,Standard,2–5 Days,Medium
+RT415,Sarawak,East Coast,Sea Freight,Next Day,Next Day,High
+RT416,Sarawak,East Coast,Sea Freight,Same Day,Same Day,Highest
+RT417,Sarawak,East Coast,Air Cargo,Economy,3–7 Days,Low
+RT418,Sarawak,East Coast,Air Cargo,Standard,2–5 Days,Medium
+RT419,Sarawak,East Coast,Air Cargo,Next Day,Next Day,High
+RT420,Sarawak,East Coast,Air Cargo,Same Day,Same Day,Highest
+RT421,Sarawak,Sabah,Motorcycle,Economy,3–7 Days,Low
+RT422,Sarawak,Sabah,Motorcycle,Standard,2–5 Days,Medium
+RT423,Sarawak,Sabah,Motorcycle,Next Day,Next Day,High
+RT424,Sarawak,Sabah,Motorcycle,Same Day,Same Day,Highest
+RT425,Sarawak,Sabah,Van,Economy,3–7 Days,Low
+RT426,Sarawak,Sabah,Van,Standard,2–5 Days,Medium
+RT427,Sarawak,Sabah,Van,Next Day,Next Day,High
+RT428,Sarawak,Sabah,Van,Same Day,Same Day,Highest
+RT429,Sarawak,Sabah,1-Ton Lorry,Economy,3–7 Days,Low
+RT430,Sarawak,Sabah,1-Ton Lorry,Standard,2–5 Days,Medium
+RT431,Sarawak,Sabah,1-Ton Lorry,Next Day,Next Day,High
+RT432,Sarawak,Sabah,1-Ton Lorry,Same Day,Same Day,Highest
+RT433,Sarawak,Sabah,3-Ton Lorry,Economy,3–7 Days,Low
+RT434,Sarawak,Sabah,3-Ton Lorry,Standard,2–5 Days,Medium
+RT435,Sarawak,Sabah,3-Ton Lorry,Next Day,Next Day,High
+RT436,Sarawak,Sabah,3-Ton Lorry,Same Day,Same Day,Highest
+RT437,Sarawak,Sabah,Air Cargo,Economy,3–7 Days,Low
+RT438,Sarawak,Sabah,Air Cargo,Standard,2–5 Days,Medium
+RT439,Sarawak,Sabah,Air Cargo,Next Day,Next Day,High
+RT440,Sarawak,Sabah,Air Cargo,Same Day,Same Day,Highest
+RT441,Sarawak,Sarawak,Motorcycle,Economy,3–7 Days,Low
+RT442,Sarawak,Sarawak,Motorcycle,Standard,2–5 Days,Medium
+RT443,Sarawak,Sarawak,Motorcycle,Next Day,Next Day,High
+RT444,Sarawak,Sarawak,Motorcycle,Same Day,Same Day,Highest
+RT445,Sarawak,Sarawak,Van,Economy,3–7 Days,Low
+RT446,Sarawak,Sarawak,Van,Standard,2–5 Days,Medium
+RT447,Sarawak,Sarawak,Van,Next Day,Next Day,High
+RT448,Sarawak,Sarawak,Van,Same Day,Same Day,Highest
+RT449,Sarawak,Sarawak,1-Ton Lorry,Economy,3–7 Days,Low
+RT450,Sarawak,Sarawak,1-Ton Lorry,Standard,2–5 Days,Medium
+RT451,Sarawak,Sarawak,1-Ton Lorry,Next Day,Next Day,High
+RT452,Sarawak,Sarawak,1-Ton Lorry,Same Day,Same Day,Highest
+RT453,Sarawak,Sarawak,3-Ton Lorry,Economy,3–7 Days,Low
+RT454,Sarawak,Sarawak,3-Ton Lorry,Standard,2–5 Days,Medium
+RT455,Sarawak,Sarawak,3-Ton Lorry,Next Day,Next Day,High
+RT456,Sarawak,Sarawak,3-Ton Lorry,Same Day,Same Day,Highest

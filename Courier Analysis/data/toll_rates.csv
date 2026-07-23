@@ -1,0 +1,13 @@
+﻿Vehicle Type,Toll/km,Region Availability,Route Type
+Motorcycle,RM0.00,Peninsular,Non-Toll Road
+Van,RM0.15,Peninsular,Expressway
+1-Ton Lorry,RM0.28,Peninsular,Expressway
+3-Ton Lorry,RM0.40,Peninsular,Expressway
+Motorcycle,RM0.00,Sabah,Non-Toll Road
+Van,RM0.00,Sabah,Non-Toll Road
+1-Ton Lorry,RM0.00,Sabah,Non-Toll Road
+3-Ton Lorry,RM0.00,Sabah,Non-Toll Road
+Motorcycle,RM0.00,Sarawak,Non-Toll Road
+Van,RM0.00,Sarawak,Non-Toll Road
+1-Ton Lorry,RM0.00,Sarawak,Non-Toll Road
+3-Ton Lorry,RM0.00,Sarawak,Non-Toll Road

@@ -1,0 +1,5 @@
+﻿Service Level,Target Delivery (Days),Priority,Cost Multiplier
+Economy,3–7 Days,Low,1
+Standard,2–5 Days,Medium,1.1
+Next Day,Next Day,High,1.3
+Same Day,Same Day,Highest,1.6
