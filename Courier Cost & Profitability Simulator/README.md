@@ -25,3 +25,5 @@ OpenPyXL
 
 Business Value
 Supports logistics planning and data-driven decision-making through interactive cost and profitability analysis.
+
+![alt text](image.png)
